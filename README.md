@@ -7,3 +7,7 @@ Folder "cuda_source" contains the source code for the cuda applciations that are
 
 A working system can be found at 
 https://tesla.ce.pdn.ac.lk/cuda/
+
+
+Read for more information :
+Hasindu Gamaarachchi, Mohamed Fawsan, Fathima Fasna and Dhammika Elkaduwe, "User-friendly Interface for GPGPU Programming", 6th National Conference on Technology and Management 2017 (NCTM 2017)
