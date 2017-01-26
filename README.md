@@ -1,5 +1,5 @@
 # WebInterfaceGPGPU
-User-friendly interface for GPGPU programming. Allows running CUDA applications through a web interface rather than from a traditional command line.
+User-friendly web interface for GPGPU programming. Allows running CUDA applications through a web interface rather than from a traditional command line.
 
 Folder "web_interface" contains the web interface for running CUDA apps.
 
